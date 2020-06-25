@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e031b52c-3b32-4b96-9506-b99f44a1f064" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dlm7nJF0FkA8NsGZe1T8q6WRZj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test.test_Poke">
+    <configuration name="poke" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/poke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poke/poke.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.test_Poke" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_Poke&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.test_Poke.test_isHigh" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_Poke.test_isHigh&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.test_Poke.test_isOne" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_Poke.test_isOne&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.test_Poke.test_winner1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_Poke.test_winner1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="Poke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test.test_Poke" />
+        <item itemvalue="Python.poke" />
+        <item itemvalue="Python tests.Unittests for test.test_Poke.test_winner1" />
+        <item itemvalue="Python tests.Unittests for test.test_Poke.test_isOne" />
+        <item itemvalue="Python tests.Unittests for test.test_Poke.test_isHigh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e031b52c-3b32-4b96-9506-b99f44a1f064" name="Default Changelist" comment="" />
+      <created>1593007888837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593007888837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="111" key="#TODO" timestamp="1593011189346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="111" key="#TODO/0.0.1536.824@0.0.1536.824" timestamp="1593011189346" />
+    <state x="484" y="80" key="#Unittests_for_test.PokeTest" timestamp="1593014178522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="80" key="#Unittests_for_test.PokeTest/0.0.1536.824@0.0.1536.824" timestamp="1593014178522" />
+    <state x="443" y="109" key="#Unittests_in_test.py" timestamp="1593011249321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="109" key="#Unittests_in_test.py/0.0.1536.824@0.0.1536.824" timestamp="1593011249321" />
+    <state x="864" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593009688734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="864" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593009688734" />
+    <state x="679" y="98" key="#poke" timestamp="1593074696090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="679" y="98" key="#poke/0.0.1536.824@0.0.1536.824" timestamp="1593074696090" />
+    <state width="1124" height="166" key="GridCell.Tab.0.bottom" timestamp="1593077239753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593077239753" />
+    <state width="1124" height="166" key="GridCell.Tab.0.center" timestamp="1593077239753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593077239753" />
+    <state width="1124" height="166" key="GridCell.Tab.0.left" timestamp="1593077239753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593077239753" />
+    <state width="1124" height="166" key="GridCell.Tab.0.right" timestamp="1593077239753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593077239753" />
+    <state width="1124" height="208" key="GridCell.Tab.1.bottom" timestamp="1593076882609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593076882609" />
+    <state width="1124" height="208" key="GridCell.Tab.1.center" timestamp="1593076882609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="208" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593076882609" />
+    <state width="1124" height="208" key="GridCell.Tab.1.left" timestamp="1593076882609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="208" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593076882609" />
+    <state width="1124" height="208" key="GridCell.Tab.1.right" timestamp="1593076882609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1124" height="208" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593076882609" />
+    <state x="292" y="73" key="SettingsEditor" timestamp="1593011055732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="292" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593011055732" />
+    <state x="534" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1593065022295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593065022295" />
+    <state x="950" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593012837975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="950" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593012837975" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
