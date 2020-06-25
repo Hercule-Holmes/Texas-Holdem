@@ -90,6 +90,9 @@ def suff(ini):
             cmp2.append(cmp[i])
     for i in cmp1:
         dic[i] = cmp1.count(i)
+
+    #这一步排序是后面比较的关键，key设置为一个元组，先比较x 的出现次数，再比较x的大小
+    #得到的结果就是四条排在三条和对子前面，其余杂牌按从大到小排序
     cmp1.sort(key=lambda x: (dic[x], x), reverse=True)
     return (cmp1, cmp2)
 
@@ -108,6 +111,9 @@ def judge(cmp1, cmp2):
         p *= cmp1[i] - cmp1[i + 1]
         count.append(cmp1.count(cmp1[i]))
 
+    #牌型判断这里看着很长，实际上利用了两个很简单的点
+    #第一点顺子牌型依次相减值恒为1，复牌恒为0，杂牌恒大于1
+    #第二点上面对某一张牌出现的次数进行了统计，这里只需要判断2,3,4是否在统计里就行了
     if p == 1 and q == 1:
         return 1
     elif q == 1:
